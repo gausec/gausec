@@ -2,7 +2,7 @@
 Welcome to my GitHub! Explore the repositories below to discover some of my projects, code, and results. 
 
 &nbsp;
-
+#### About me
 🌼 I’m currently working for the National Park Service on a variety of threatened and endangered species projects. 
 
 📊 I’m honing my skills in R using the `ggplot2` package and using bash shell scripting to process next-generation sequencing data for a [conservation genomics project](https://github.com/gausec/KingRailPopGen).
