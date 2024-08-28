@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey there 👋
+Welcome to my GitHub! Explore the repositories below to discover some of my projects, code, and results. 
 
-<!--
-**gausec/gausec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
 
-Here are some ideas to get you started:
+🔭 I’m currently working at Cape Hatteras National Seashore on a variety of threatened and endangered species projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I’m currently honing my skills in R using the `ggplot2` package and using bash shell scripting to process next-generation sequencing data for a conservation genomics project.
+
+💬 Ask me about occupancy and abundance modeling in R!
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/carol-gause-26a49a15b/).
+
+⚡ Fun fact: I have a decade of outdoor work experience, spanning from the Rockies of western Wyoming to the Outer Banks of North Carolina.
