@@ -5,7 +5,7 @@ Welcome to my GitHub! Explore the repositories below to discover some of my proj
 
 🌞 I’m currently working at Cape Hatteras National Seashore on a variety of threatened and endangered species projects. 
 
-📊 I’m currently honing my skills in R using the `ggplot2` package and using bash shell scripting to process next-generation sequencing data for a [conservation genomics project](https://github.com/gausec/KingRailPopGen).
+📊 I’m honing my skills in R using the `ggplot2` package and using bash shell scripting to process next-generation sequencing data for a [conservation genomics project](https://github.com/gausec/KingRailPopGen).
 
 💬 Ask me about occupancy and abundance modeling in R!
 
