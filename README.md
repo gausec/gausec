@@ -11,5 +11,4 @@ Welcome to my GitHub! Explore the repositories below to discover some of my proj
 
 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/carol-gause-26a49a15b/).
 
-🌞 Fun fact: I have a decade of outdoor/field work experience, spanning from the Rockies of western Wyoming to the Outer Banks of North &nbsp;
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Carolina.
+🌞 Fun fact: I have a decade of outdoor/field work experience, spanning from the Rockies of western Wyoming to the Outer Banks of North Carolina.
