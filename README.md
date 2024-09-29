@@ -3,9 +3,9 @@ Welcome to my GitHub! Explore the repositories below to discover some of my proj
 
 &nbsp;
 #### About me
-🌼 I’m currently working for the National Park Service on a variety of threatened and endangered species projects. 
+🌼 I’m currently working for The Clark Group LLC! 
 
-📊 I’m honing my skills in R using the `ggplot2` package and using bash shell scripting to process next-generation sequencing data for a [conservation genomics project](https://github.com/gausec/KingRailPopGen).
+📊 In my free time, I am processing next-generation sequencing data for a [conservation genomics project](https://github.com/gausec/KingRailPopGen).
 
 💬 Ask me about occupancy and abundance modeling in R!
 
