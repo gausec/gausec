@@ -9,6 +9,6 @@ Welcome to my GitHub! Explore the repositories below to discover some of my proj
 
 💬 Ask me about occupancy and abundance modeling in R!
 
-📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/carol-gause-26a49a15b/).
+📬 Connect with me on [LinkedIn](www.linkedin.com/in/carol-august-gause-26a49a15b).
 
 🌞 Fun fact: I have been involved in outdoor/field work for a decade now, from the Rockies of western Wyoming to the Outer Banks of North Carolina.
